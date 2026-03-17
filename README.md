@@ -420,6 +420,7 @@ temp, err := client.TempEmail.Create(ctx, nil)
 
 | Language | Package | Repository |
 |----------|---------|------------|
+| **Node.js** | `evilmail` | [Evil-Mail/evilmail-node](https://github.com/Evil-Mail/evilmail-node) |
 | **PHP** | `evilmail/evilmail-php` | [Evil-Mail/evilmail-php](https://github.com/Evil-Mail/evilmail-php) |
 | **Python** | `evilmail` | [Evil-Mail/evilmail-python](https://github.com/Evil-Mail/evilmail-python) |
 | **Go** | `evilmail-go` | [Evil-Mail/evilmail-go](https://github.com/Evil-Mail/evilmail-go) |
